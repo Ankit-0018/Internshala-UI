@@ -65,8 +65,8 @@ src/
 ## 🧪 How to Run Locally
 
 ```bash
-git clone [https://github.com/Ankit-0018/Internshala-UI.git]
-cd internshala-ui-clone
+git clone https://github.com/Ankit-0018/Internshala-UI.git
+cd Intershala-UI
 npm install
 npm run dev
 ```
