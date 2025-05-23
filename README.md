@@ -50,18 +50,17 @@ This is my submission for the **Internshala Frontend Developer Assignment**, whe
 ## 🧠 Folder Structure
 
 Intercom UI /
-
-├── src/
-│ └── components/ # Reusable React components
-│ └── cofig/
-│       └── db/ #MockData
-│ └── cofig/
-│        └── useDb/ #MockData Context
-│        └── cofig/ #SelectedUser Context
-| └── App.jsx
-| └── index.css
-| └── main.jsx
-
+```
+src/
+├── components/ # Reusable React components
+├── config/
+│ ├── db/ # MockData
+│ ├── useDb/ # MockData Context
+│ └── config/ # SelectedUser Context
+├── App.jsx
+├── index.css
+└── main.jsx
+```
 
 ## 🧪 How to Run Locally
 
